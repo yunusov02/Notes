@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Linear Regression.md",
+                "file": "learning/day_271-300.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "day_271-300"
             }
           }
         ],
@@ -200,12 +200,24 @@
   },
   "active": "d852fc5bc45701f5",
   "lastOpenFiles": [
+    "learning/XXEOqfFP",
+    "learning/XXkEwmS5",
+    "learning/XXAHYbdV",
+    "learning/day_241-270.md",
+    "learning/day_211-240.md",
+    "learning/day_181-210.md",
+    "learning/day_151-180.md",
+    "learning/day_121-150.md",
+    "learning/day_91-120.md",
+    "learning/day_61-90.md",
+    "learning/day_31-60.md",
+    "learning/day_1-30.md",
+    "AI/Linear Regression.md",
     "images/linear_regression_vector.png",
     "images/image.png",
     "images/linear_regression.png",
     "images/03_predicted_vs_actual.png",
     "AI/Machine Learning.md",
-    "AI/Linear Regression.md",
     "Networking/Server Architecture.md",
     "backend/Flask.md",
     "images/asgi_vs_wsgi.png",
