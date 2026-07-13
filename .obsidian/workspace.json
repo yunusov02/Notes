@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aac001251273d095",
+        "id": "bca7b912b057b7e1",
         "type": "tabs",
         "children": [
           {
-            "id": "70f7f83ef15cf738",
+            "id": "905ca5a9b627f976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/02-regression/cleaning.md",
+                "file": "backend/black-ruff-mypy-pytest-pre-commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cleaning"
-            }
-          },
-          {
-            "id": "d47fd9d31bc23d7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/02-regression/linear-regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linear-regression"
-            }
-          },
-          {
-            "id": "b884bbfc97d1f29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/02-regression/rmse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rmse"
+              "title": "black-ruff-mypy-pytest-pre-commit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "983b938c4f208385",
@@ -212,10 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b884bbfc97d1f29d",
+  "active": "905ca5a9b627f976",
   "lastOpenFiles": [
-    "AI/02-regression/linear-regression.md",
+    "backend/mypy.md",
+    "backend/ruff.md",
+    "backend/black-ruff-mypy-pytest-pre-commit.md",
     "AI/02-regression/rmse.md",
+    "AI/02-regression/linear-regression.md",
     "AI/02-regression/cleaning.md",
     "AI/01_intro/01-what-is-ML.md",
     "AI/01_intro/03-supervised-ml.md",
@@ -251,9 +226,6 @@
     "Networking/WSGI.md",
     "Networking/ASGI.md",
     "learning/day_1-30.md",
-    "learning/professional-commerce-erp-spec.md",
-    "learning/english.md",
-    "learning/professional-commerce-erp-365-day-roadmap.md",
     "learning/XXEOqfFP",
     "learning/XXkEwmS5",
     "learning/XXAHYbdV",
