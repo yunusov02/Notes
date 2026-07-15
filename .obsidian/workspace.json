@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "983b938c4f208385",
@@ -199,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3842566c921af565",
+  "active": "f3b96ec3c3080f0c",
   "lastOpenFiles": [
     "keywords.md",
     "AI/03-evaluation/churn_prediction.md",
